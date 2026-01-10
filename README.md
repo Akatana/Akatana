@@ -1,4 +1,4 @@
-# Hi, I'm George Wägele 👋
+# Hi, I'm George 👋
 
 I am a **Backend Developer** based in **Hildesheim, Germany**. I specialize in building scalable, international web platforms and high-performance APIs.
 
